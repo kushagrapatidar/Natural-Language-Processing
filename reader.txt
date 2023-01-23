@@ -1,0 +1,2 @@
+f=open("text.txt",r)
+l=readlines(f)
