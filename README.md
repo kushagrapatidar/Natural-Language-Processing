@@ -7,5 +7,3 @@ This repository contains python codes of NLP proccesses listed below:
 4) Language Models for Predictions
 5) Part of Speech Tagging
 6) Named Entity Recognition
-
-7) Matxin http://ixa.si.ehu.es/node/3714?language=en
